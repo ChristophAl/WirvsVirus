@@ -1,0 +1,561 @@
+GENESIS-Tabelle: 23111-01-02-4
+Grunddaten der Krankenhäuser - Stichtag 31.12. - regionale Tiefe: Kreise und krfr. Städte (bis 2003);;;;;;;;;
+Krankenhausstatistik: Grunddaten;;;;;;;;;
+;;;Krankenhäuser;aufgestellte Betten (JD) in Krankenhäusern;Patientenzugang in Krankenhäusern;Patientenabgang einschl. Sterbefälle in Krankenh.;hauptamtliche Ärzte in Krankenhäusern;hauptamtliche Ärzte mit abg. Weiterb. in Krankenh.;Personal im Pflegedienst in Krankenhäusern
+;;;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl
+31.12.2003;DG;Deutschland;2197;541901;17287398;17304421;118486;67763;408183
+31.12.2003;01;  Schleswig-Holstein;90;16370;555069;559469;3949;2116;12379
+31.12.2003;01001;      Flensburg, Kreisfreie Stadt;4;876;29589;29753;194;109;809
+31.12.2003;01002;      Kiel, Landeshauptstadt, Kreisfreie Stadt;11;2366;94890;94840;933;399;2285
+31.12.2003;01003;      Lübeck, Hansestadt, Kreisfreie Stadt;6;1927;69338;69331;722;346;1245
+31.12.2003;01004;      Neumünster, Kreisfreie Stadt;4;653;25981;26346;148;92;523
+31.12.2003;01051;      Dithmarschen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;01053;      Herzogtum Lauenburg, Landkreis;4;688;21664;21749;109;58;471
+31.12.2003;01054;      Nordfriesland, Landkreis;8;775;27848;27796;140;97;458
+31.12.2003;01055;      Ostholstein, Landkreis;14;1930;52855;53666;304;172;1255
+31.12.2003;01056;      Pinneberg, Landkreis;6;1071;34075;34103;273;226;843
+31.12.2003;01057;      Plön, Landkreis;.;.;.;.;.;.;.
+31.12.2003;01058;      Rendsburg-Eckernförde, Landkreis;5;1231;42072;42200;233;141;875
+31.12.2003;01059;      Schleswig-Flensburg, Landkreis;5;696;19663;19681;130;79;564
+31.12.2003;01060;      Segeberg, Landkreis;7;1561;41084;41490;243;142;880
+31.12.2003;01061;      Steinburg, Landkreis;4;653;21949;22016;137;68;526
+31.12.2003;01062;      Stormarn, Landkreis;6;1016;39166;41502;176;90;834
+31.12.2003;02;  Hamburg;45;12197;394084;395023;3483;2360;10366
+31.12.2003;03;  Niedersachsen;208;47077;1519001;1521590;9362;5245;37313
+31.12.2003;031;    Braunschweig, Stat. Region;42;11066;353956;354615;2168;1144;8967
+31.12.2003;03101;      Braunschweig, Kreisfreie Stadt;7;2230;77216;77455;454;247;1776
+31.12.2003;03102;      Salzgitter, Kreisfreie Stadt;2;648;.;.;.;.;.
+31.12.2003;03103;      Wolfsburg, Kreisfreie Stadt;1;723;.;.;.;.;.
+31.12.2003;03151;      Gifhorn, Landkreis;2;431;.;.;.;.;.
+31.12.2003;03152;      Göttingen, Landkreis;10;2979;91379;91450;666;303;2890
+31.12.2003;03153;      Goslar, Landkreis;6;1164;33634;33674;229;131;868
+31.12.2003;03154;      Helmstedt, Landkreis;3;845;19263;19285;117;66;757
+31.12.2003;03155;      Northeim, Landkreis;4;695;22157;22282;116;73;565
+31.12.2003;03156;      Osterode am Harz, Landkreis;4;520;15460;15436;78;41;262
+31.12.2003;03157;      Peine, Landkreis;1;415;.;.;.;.;.
+31.12.2003;03158;      Wolfenbüttel, Landkreis;2;416;.;.;.;.;.
+31.12.2003;03159;      Göttingen, Landkreis;-;-;-;-;-;-;-
+31.12.2003;032;    Hannover, Stat. Region;58;13491;428792;428596;2869;1649;11009
+31.12.2003;03241;      Region Hannover, Landkreis;30;8144;256985;256331;1836;1088;6811
+31.12.2003;03241001;      Hannover, Landeshauptstadt;-;-;-;-;-;-;-
+31.12.2003;03251;      Diepholz, Landkreis;4;584;19117;19202;103;58;448
+31.12.2003;03252;      Hameln-Pyrmont, Landkreis;6;1242;35879;36050;220;129;1063
+31.12.2003;03254;      Hildesheim, Landkreis;7;1990;66103;66239;450;233;1685
+31.12.2003;03255;      Holzminden, Landkreis;3;356;12265;12307;62;36;248
+31.12.2003;03256;      Nienburg (Weser), Landkreis;3;388;12878;12910;68;31;278
+31.12.2003;03257;      Schaumburg, Landkreis;5;787;25565;25557;130;74;476
+31.12.2003;033;    Lüneburg, Stat. Region;42;7904;255989;257288;1556;883;5768
+31.12.2003;03351;      Celle, Landkreis;2;851;.;.;.;.;.
+31.12.2003;03352;      Cuxhaven, Landkreis;4;877;24663;24678;156;101;595
+31.12.2003;03353;      Harburg, Landkreis;5;969;27502;27618;179;102;656
+31.12.2003;03354;      Lüchow-Dannenberg, Landkreis;1;183;.;.;.;.;.
+31.12.2003;03355;      Lüneburg, Landkreis;6;1102;30762;30758;181;82;815
+31.12.2003;03356;      Osterholz, Landkreis;2;255;.;.;.;.;.
+31.12.2003;03357;      Rotenburg (Wümme), Landkreis;4;1071;35521;35867;250;120;796
+31.12.2003;03358;      Heidekreis, Landkreis;6;616;20845;21099;128;81;412
+31.12.2003;03359;      Stade, Landkreis;4;901;32868;33032;191;115;625
+31.12.2003;03360;      Uelzen, Landkreis;6;728;23547;23825;163;93;594
+31.12.2003;03361;      Verden, Landkreis;2;351;.;.;.;.;.
+31.12.2003;034;    Weser-Ems, Stat. Region;66;14616;480264;481091;2769;1569;11569
+31.12.2003;03401;      Delmenhorst, Kreisfreie Stadt;2;481;.;.;.;.;.
+31.12.2003;03402;      Emden, Kreisfreie Stadt;1;374;.;.;.;.;.
+31.12.2003;03403;      Oldenburg (Oldenburg), Kreisfreie Stadt;3;1503;60679;60705;444;274;1467
+31.12.2003;03404;      Osnabrück, Kreisfreie Stadt;5;1989;59537;59843;387;230;1604
+31.12.2003;03405;      Wilhelmshaven, Kreisfreie Stadt;4;795;26494;26481;166;94;630
+31.12.2003;03451;      Ammerland, Landkreis;3;810;20604;20629;147;71;543
+31.12.2003;03452;      Aurich, Landkreis;4;760;25626;25707;153;82;519
+31.12.2003;03453;      Cloppenburg, Landkreis;4;612;20745;20759;100;56;509
+31.12.2003;03454;      Emsland, Landkreis;7;1680;52764;52822;269;162;1447
+31.12.2003;03455;      Friesland, Landkreis;2;590;.;.;.;.;.
+31.12.2003;03456;      Grafschaft Bentheim, Landkreis;4;686;22127;22172;93;50;528
+31.12.2003;03457;      Leer, Landkreis;4;638;25016;25057;110;53;444
+31.12.2003;03458;      Oldenburg, Landkreis;3;312;7487;7521;42;20;239
+31.12.2003;03459;      Osnabrück, Landkreis;12;2001;63820;63914;343;217;1525
+31.12.2003;03460;      Vechta, Landkreis;5;913;29482;29534;144;79;624
+31.12.2003;03461;      Wesermarsch, Landkreis;2;312;.;.;.;.;.
+31.12.2003;03462;      Wittmund, Landkreis;1;160;.;.;.;.;.
+31.12.2003;04;  Bremen;15;5881;195579;195493;1589;939;5244
+31.12.2003;04011;      Bremen, Kreisfreie Stadt;11;4635;150455;150215;1297;748;4151
+31.12.2003;04012;      Bremerhaven, Kreisfreie Stadt;4;1246;45124;45278;292;191;1093
+31.12.2003;05;  Nordrhein-Westfalen;384;120080;3923864;3923892;25872;14727;88426
+31.12.2003;051;    Düsseldorf, Regierungsbezirk;103;36040;1181108;1180279;7955;4703;26805
+31.12.2003;05111;      Düsseldorf, Kreisfreie Stadt;13;5074;165367;165329;1472;915;3963
+31.12.2003;05112;      Duisburg, Kreisfreie Stadt;10;4442;130591;130612;944;582;3153
+31.12.2003;05113;      Essen, Kreisfreie Stadt;14;5671;196375;196514;1524;851;4307
+31.12.2003;05114;      Krefeld, Kreisfreie Stadt;4;1784;63522;63477;458;260;1404
+31.12.2003;05116;      Mönchengladbach, Kreisfreie Stadt;6;2132;71049;71169;415;234;1601
+31.12.2003;05117;      Mülheim an der Ruhr, Kreisfreie Stadt;2;963;.;.;.;.;.
+31.12.2003;05119;      Oberhausen, Kreisfreie Stadt;5;1674;50384;50452;306;171;1250
+31.12.2003;05120;      Remscheid, Kreisfreie Stadt;3;778;.;.;.;.;.
+31.12.2003;05122;      Solingen, Kreisfreie Stadt;3;1161;36474;36437;241;157;915
+31.12.2003;05124;      Wuppertal, Kreisfreie Stadt;5;2231;81044;81085;546;270;1734
+31.12.2003;05154;      Kleve, Kreis;6;1587;48356;48342;267;162;1125
+31.12.2003;05158;      Mettmann, Kreis;10;2108;69913;69955;339;202;1331
+31.12.2003;05162;      Rhein-Kreis Neuss;6;1834;62315;62166;323;199;1240
+31.12.2003;05166;      Viersen, Kreis;8;1561;49158;49220;241;164;1084
+31.12.2003;05170;      Wesel, Kreis;8;3040;98498;97599;540;318;2252
+31.12.2003;053;    Köln, Regierungsbezirk;81;25364;843043;842718;6182;3406;18159
+31.12.2003;05314;      Bonn, Kreisfreie Stadt;10;3746;117150;117121;1064;602;2847
+31.12.2003;05315;      Köln, Kreisfreie Stadt;20;7072;226431;226535;1827;964;5121
+31.12.2003;05316;      Leverkusen, Kreisfreie Stadt;3;1113;39328;39368;251;142;864
+31.12.2003;05334;      Städteregion Aachen (einschl. Stadt Aachen);-;-;-;-;-;-;-
+31.12.2003;05334002;      Aachen, krfr. Stadt;5;2346;81172;80555;888;420;1549
+31.12.2003;05354;      Aachen, Kreis;4;1638;56536;56581;353;204;1219
+31.12.2003;05358;      Düren, Kreis;6;1543;51400;51305;266;161;1005
+31.12.2003;05362;      Rhein-Erft-Kreis;8;1517;50634;50550;251;149;947
+31.12.2003;05366;      Euskirchen, Kreis;3;1003;33771;34151;182;103;754
+31.12.2003;05370;      Heinsberg, Kreis;4;893;30671;30696;137;83;568
+31.12.2003;05374;      Oberbergischer Kreis;6;1700;57550;57553;336;175;1242
+31.12.2003;05378;      Rheinisch-Bergischer Kreis;4;1108;38671;38498;216;140;726
+31.12.2003;05382;      Rhein-Sieg-Kreis;8;1685;59729;59805;411;263;1317
+31.12.2003;055;    Münster, Regierungsbezirk;60;17824;585518;585694;3835;2153;13549
+31.12.2003;05512;      Bottrop, Kreisfreie Stadt;3;835;29530;29599;178;110;603
+31.12.2003;05513;      Gelsenkirchen, Kreisfreie Stadt;8;2363;79733;79779;440;240;1606
+31.12.2003;05515;      Münster, Kreisfreie Stadt;7;3502;113346;113292;1258;673;3175
+31.12.2003;05554;      Borken, Kreis;9;1977;64536;64645;342;204;1506
+31.12.2003;05558;      Coesfeld, Kreis;4;876;30524;30467;174;102;665
+31.12.2003;05562;      Recklinghausen, Kreis;15;4804;154471;154226;883;499;3442
+31.12.2003;05566;      Steinfurt, Kreis;9;2117;68002;68237;352;208;1538
+31.12.2003;05570;      Warendorf, Kreis;5;1350;45376;45449;208;117;1014
+31.12.2003;057;    Detmold, Regierungsbezirk;42;13324;423569;423895;2586;1471;9699
+31.12.2003;05711;      Bielefeld, Kreisfreie Stadt;7;2955;95843;95745;679;367;2333
+31.12.2003;05754;      Gütersloh, Kreis;6;1398;45923;45992;242;143;970
+31.12.2003;05758;      Herford, Kreis;4;1334;42304;42405;231;150;971
+31.12.2003;05762;      Höxter, Kreis;6;1596;36969;37095;188;106;856
+31.12.2003;05766;      Lippe, Kreis;3;1494;46887;46923;297;175;1098
+31.12.2003;05770;      Minden-Lübbecke, Kreis;10;2814;88997;89021;674;370;2170
+31.12.2003;05774;      Paderborn, Kreis;6;1733;66646;66714;275;160;1301
+31.12.2003;059;    Arnsberg, Regierungsbezirk;98;27528;890626;891306;5314;2994;20214
+31.12.2003;05911;      Bochum, Kreisfreie Stadt;9;3335;99777;99794;808;404;2606
+31.12.2003;05913;      Dortmund, Kreisfreie Stadt;10;4171;137367;137504;897;509;3121
+31.12.2003;05914;      Hagen, Kreisfreie Stadt;5;1833;65111;65148;365;201;1346
+31.12.2003;05915;      Hamm, Kreisfreie Stadt;6;1912;60396;60827;348;209;1413
+31.12.2003;05916;      Herne, Kreisfreie Stadt;5;1577;54923;54877;322;199;1164
+31.12.2003;05954;      Ennepe-Ruhr-Kreis;9;2432;70243;70057;447;235;1710
+31.12.2003;05958;      Hochsauerlandkreis;12;1883;57971;57803;269;161;1353
+31.12.2003;05962;      Märkischer Kreis;13;3061;95175;95337;542;324;1949
+31.12.2003;05966;      Olpe, Kreis;3;873;27295;27363;139;77;623
+31.12.2003;05970;      Siegen-Wittgenstein, Kreis;7;2083;72158;72353;429;240;1971
+31.12.2003;05974;      Soest, Kreis;10;1982;67297;67200;321;180;1381
+31.12.2003;05978;      Unna, Kreis;9;2386;82913;83043;427;255;1577
+31.12.2003;06;  Hessen;179;37952;1199696;1197359;7926;4337;29348
+31.12.2003;064;    Darmstadt, Regierungsbezirk;.;.;.;.;.;.;.
+31.12.2003;06411;      Darmstadt, Kreisfreie Stadt;.;.;.;.;.;.;.
+31.12.2003;06412;      Frankfurt am Main, Kreisfreie Stadt;.;.;.;.;.;.;.
+31.12.2003;06413;      Offenbach am Main, Kreisfreie Stadt;.;.;.;.;.;.;.
+31.12.2003;06414;      Wiesbaden, Landeshauptstadt, Kreisfreie Stadt;.;.;.;.;.;.;.
+31.12.2003;06431;      Bergstraße, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06432;      Darmstadt-Dieburg, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06433;      Groß-Gerau, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06434;      Hochtaunuskreis;.;.;.;.;.;.;.
+31.12.2003;06435;      Main-Kinzig-Kreis;.;.;.;.;.;.;.
+31.12.2003;06436;      Main-Taunus-Kreis;.;.;.;.;.;.;.
+31.12.2003;06437;      Odenwaldkreis;.;.;.;.;.;.;.
+31.12.2003;06438;      Offenbach, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06439;      Rheingau-Taunus-Kreis;.;.;.;.;.;.;.
+31.12.2003;06440;      Wetteraukreis;.;.;.;.;.;.;.
+31.12.2003;065;    Gießen, Regierungsbezirk;.;.;.;.;.;.;.
+31.12.2003;06531;      Gießen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06532;      Lahn-Dill-Kreis;.;.;.;.;.;.;.
+31.12.2003;06533;      Limburg-Weilburg, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06534;      Marburg-Biedenkopf, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06535;      Vogelsbergkreis;.;.;.;.;.;.;.
+31.12.2003;066;    Kassel, Regierungsbezirk;.;.;.;.;.;.;.
+31.12.2003;06611;      Kassel, Kreisfreie Stadt;.;.;.;.;.;.;.
+31.12.2003;06631;      Fulda, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06632;      Hersfeld-Rotenburg, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06633;      Kassel, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06634;      Schwalm-Eder-Kreis;.;.;.;.;.;.;.
+31.12.2003;06635;      Waldeck-Frankenberg, Landkreis;.;.;.;.;.;.;.
+31.12.2003;06636;      Werra-Meißner-Kreis;.;.;.;.;.;.;.
+31.12.2003;07;  Rheinland-Pfalz;102;25875;834586;834810;5104;2819;20653
+31.12.2003;071;    Koblenz, Stat. Region;-;-;-;-;-;-;-
+31.12.2003;07111;      Koblenz, Kreisfreie Stadt;3;1666;56288;56308;371;207;1441
+31.12.2003;07131;      Ahrweiler, Landkreis;8;915;25679;25660;155;87;638
+31.12.2003;07132;      Altenkirchen (Westerwald), Landkreis;3;682;.;.;96;56;496
+31.12.2003;07133;      Bad Kreuznach, Landkreis;6;1079;33652;33676;161;84;722
+31.12.2003;07134;      Birkenfeld, Landkreis;3;588;.;.;119;71;417
+31.12.2003;07135;      Cochem-Zell, Landkreis;3;445;13962;13956;47;25;248
+31.12.2003;07137;      Mayen-Koblenz, Landkreis;5;993;25315;25256;145;85;769
+31.12.2003;07138;      Neuwied, Landkreis;6;1522;53265;53249;278;164;1234
+31.12.2003;07140;      Rhein-Hunsrück-Kreis;2;483;.;.;70;34;359
+31.12.2003;07141;      Rhein-Lahn-Kreis;6;975;22922;22900;98;57;522
+31.12.2003;07143;      Westerwaldkreis;3;581;21989;21980;86;59;425
+31.12.2003;072;    Trier, Stat. Region;-;-;-;-;-;-;-
+31.12.2003;07211;      Trier, Kreisfreie Stadt;4;1584;64704;64732;451;238;1554
+31.12.2003;07231;      Bernkastel-Wittlich, Landkreis;2;560;.;.;103;57;429
+31.12.2003;07232;      Eifelkreis Bitburg-Prüm;2;481;.;.;65;38;385
+31.12.2003;07233;      Vulkaneifel, Landkreis;2;397;.;.;49;28;268
+31.12.2003;07235;      Trier-Saarburg, Landkreis;2;398;.;.;49;27;295
+31.12.2003;073;    Rheinhessen-Pfalz, Stat. Region;-;-;-;-;-;-;-
+31.12.2003;07311;      Frankenthal (Pfalz), Kreisfreie Stadt;1;295;.;.;49;24;218
+31.12.2003;07312;      Kaiserslautern, Kreisfreie Stadt;2;1152;.;.;317;180;964
+31.12.2003;07313;      Landau in der Pfalz, Kreisfreie Stadt;2;630;.;.;109;65;418
+31.12.2003;07314;      Ludwigshafen am Rhein, Kreisfreie Stadt;4;1900;63097;63001;470;244;1607
+31.12.2003;07315;      Mainz, Kreisfreie Stadt;6;2330;82299;82247;777;441;2900
+31.12.2003;07316;      Neustadt an der Weinstraße, Kreisfreie Stadt;1;371;.;.;82;43;272
+31.12.2003;07317;      Pirmasens, Kreisfreie Stadt;1;463;.;.;83;41;302
+31.12.2003;07318;      Speyer, Kreisfreie Stadt;3;647;22400;22481;113;57;549
+31.12.2003;07319;      Worms, Kreisfreie Stadt;3;716;.;.;134;73;549
+31.12.2003;07320;      Zweibrücken, Kreisfreie Stadt;2;541;.;.;78;44;334
+31.12.2003;07331;      Alzey-Worms, Landkreis;2;610;.;.;81;38;414
+31.12.2003;07332;      Bad Dürkheim, Landkreis;2;400;.;.;77;45;290
+31.12.2003;07333;      Donnersbergkreis;1;203;.;.;37;18;136
+31.12.2003;07334;      Germersheim, Landkreis;1;320;.;.;66;37;269
+31.12.2003;07335;      Kaiserslautern, Landkreis;1;396;.;.;69;39;194
+31.12.2003;07336;      Kusel, Landkreis;0;0;0;0;0;0;0
+31.12.2003;07337;      Südliche Weinstraße, Landkreis;4;950;16174;16196;121;66;675
+31.12.2003;07338;      Rhein-Pfalz-Kreis;0;0;0;0;0;0;0
+31.12.2003;07339;      Mainz-Bingen, Landkreis;4;372;11922;11934;57;26;240
+31.12.2003;07340;      Südwestpfalz, Landkreis;2;230;.;.;41;21;120
+31.12.2003;08;  Baden-Württemberg, Land;320;63364;1972663;1975908;14575;8334;52023
+31.12.2003;081;    Stuttgart, Regierungsbezirk;94;21210;669684;669638;4422;2463;16920
+31.12.2003;08111;      Stuttgart, Landeshauptstadt, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08115;      Böblingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08116;      Esslingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08117;      Göppingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08118;      Ludwigsburg, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08119;      Rems-Murr-Kreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08121;      Heilbronn, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08125;      Heilbronn, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08126;      Hohenlohekreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08127;      Schwäbisch Hall, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08128;      Main-Tauber-Kreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08135;      Heidenheim, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08136;      Ostalbkreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;082;    Karlsruhe, Regierungsbezirk;73;17847;553365;554703;4165;2223;14725
+31.12.2003;08211;      Baden-Baden, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08212;      Karlsruhe, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08215;      Karlsruhe, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08216;      Rastatt, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08221;      Heidelberg, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08222;      Mannheim, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08225;      Neckar-Odenwald-Kreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08226;      Rhein-Neckar-Kreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08231;      Pforzheim, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08235;      Calw, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08236;      Enzkreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08237;      Freudenstadt, Landkreis;.;.;.;.;.;.;.
+31.12.2003;083;    Freiburg, Regierungsbezirk;86;13777;418366;418945;3081;1891;10778
+31.12.2003;08311;      Freiburg im Breisgau, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08315;      Breisgau-Hochschwarzwald, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08316;      Emmendingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08317;      Ortenaukreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08325;      Rottweil, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08326;      Schwarzwald-Baar-Kreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08327;      Tuttlingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08335;      Konstanz, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08336;      Lörrach, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08337;      Waldshut, Landkreis;.;.;.;.;.;.;.
+31.12.2003;084;    Tübingen, Regierungsbezirk;67;10530;331248;332622;2907;1757;9600
+31.12.2003;08415;      Reutlingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08416;      Tübingen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08417;      Zollernalbkreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08421;      Ulm, Stadtkreis;.;.;.;.;.;.;.
+31.12.2003;08425;      Alb-Donau-Kreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08426;      Biberach, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08435;      Bodenseekreis, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08436;      Ravensburg, Landkreis;.;.;.;.;.;.;.
+31.12.2003;08437;      Sigmaringen, Landkreis;.;.;.;.;.;.;.
+31.12.2003;09;  Bayern;398;82078;2658084;2659457;17812;9425;61100
+31.12.2003;091;    Oberbayern, Regierungsbezirk;144;29202;940467;940156;7018;3770;21868
+31.12.2003;09161;      Ingolstadt;4;1225;40080;40180;321;166;1098
+31.12.2003;09162;      München, Landeshauptstadt;50;12857;445811;444857;3954;2080;10040
+31.12.2003;09163;      Rosenheim;2;661;.;.;.;.;.
+31.12.2003;09171;      Altötting, Landkreis;2;604;.;.;.;.;.
+31.12.2003;09172;      Berchtesgadener Land, Landkreis;8;657;21933;21915;107;77;359
+31.12.2003;09173;      Bad Tölz-Wolfratshausen, Landkreis;4;541;16318;16295;87;53;331
+31.12.2003;09174;      Dachau, Landkreis;1;467;.;.;.;.;.
+31.12.2003;09175;      Ebersberg, Landkreis;1;328;.;.;.;.;.
+31.12.2003;09176;      Eichstätt, Landkreis;3;461;14627;14671;75;47;426
+31.12.2003;09177;      Erding, Landkreis;3;639;16261;16312;100;51;454
+31.12.2003;09178;      Freising, Landkreis;1;411;.;.;.;.;.
+31.12.2003;09179;      Fürstenfeldbruck, Landkreis;1;380;.;.;.;.;.
+31.12.2003;09180;      Garmisch-Partenkirchen, Landkreis;8;1347;35592;35749;298;178;866
+31.12.2003;09181;      Landsberg am Lech, Landkreis;3;475;11506;11528;81;46;266
+31.12.2003;09182;      Miesbach, Landkreis;4;610;16979;17222;110;56;417
+31.12.2003;09183;      Mühldorf a.Inn, Landkreis;4;419;13595;13761;55;26;210
+31.12.2003;09184;      München, Landkreis;5;1046;19278;19189;149;69;805
+31.12.2003;09185;      Neuburg-Schrobenhausen, Landkreis;2;485;.;.;.;.;.
+31.12.2003;09186;      Pfaffenhofen a.d.Ilm, Landkreis;1;241;.;.;.;.;.
+31.12.2003;09187;      Rosenheim, Landkreis;16;2402;51117;51135;343;196;1651
+31.12.2003;09188;      Starnberg, Landkreis;9;1328;42067;41823;246;148;869
+31.12.2003;09189;      Traunstein, Landkreis;8;1002;37108;37103;241;127;809
+31.12.2003;09190;      Weilheim-Schongau, Landkreis;4;616;19410;19450;87;45;436
+31.12.2003;092;    Niederbayern, Regierungsbezirk;39;7530;238152;238441;1359;760;5285
+31.12.2003;09261;      Landshut;4;1267;37767;37831;258;142;914
+31.12.2003;09262;      Passau;3;720;28566;28535;174;90;556
+31.12.2003;09263;      Straubing;2;545;.;.;.;.;.
+31.12.2003;09271;      Deggendorf, Landkreis;5;1242;31329;31279;227;136;1096
+31.12.2003;09272;      Freyung-Grafenau, Landkreis;3;466;16390;16444;68;41;301
+31.12.2003;09273;      Kelheim, Landkreis;3;609;17102;17088;99;66;362
+31.12.2003;09274;      Landshut, Landkreis;2;220;.;.;.;.;.
+31.12.2003;09275;      Passau, Landkreis;6;637;19180;19275;103;64;332
+31.12.2003;09276;      Regen, Landkreis;2;326;.;.;.;.;.
+31.12.2003;09277;      Rottal-Inn, Landkreis;3;646;22100;22208;107;52;396
+31.12.2003;09278;      Straubing-Bogen, Landkreis;4;497;14631;14647;64;38;268
+31.12.2003;09279;      Dingolfing-Landau, Landkreis;2;355;.;.;.;.;.
+31.12.2003;093;    Oberpfalz, Regierungsbezirk;37;7718;245912;246280;1717;856;5620
+31.12.2003;09361;      Amberg;1;540;.;.;.;.;.
+31.12.2003;09362;      Regensburg;6;2720;88308;88148;934;461;2267
+31.12.2003;09363;      Weiden i.d.OPf.;2;623;.;.;.;.;.
+31.12.2003;09371;      Amberg-Sulzbach, Landkreis;2;253;.;.;.;.;.
+31.12.2003;09372;      Cham, Landkreis;7;881;25661;25644;103;48;499
+31.12.2003;09373;      Neumarkt i.d.OPf., Landkreis;3;578;19448;19460;108;52;407
+31.12.2003;09374;      Neustadt a.d.Waldnaab, Landkreis;4;532;12047;12089;69;35;292
+31.12.2003;09375;      Regensburg, Landkreis;3;305;9621;9641;33;23;173
+31.12.2003;09376;      Schwandorf, Landkreis;6;901;27534;27630;80;41;571
+31.12.2003;09377;      Tirschenreuth, Landkreis;3;385;12033;12097;50;29;211
+31.12.2003;094;    Oberfranken, Regierungsbezirk;27;6981;229642;230030;1279;702;5138
+31.12.2003;09461;      Bamberg;3;1112;37977;38066;222;113;999
+31.12.2003;09462;      Bayreuth;4;1394;40236;40340;279;155;1156
+31.12.2003;09463;      Coburg;1;510;.;.;.;.;.
+31.12.2003;09464;      Hof;1;473;.;.;.;.;.
+31.12.2003;09471;      Bamberg, Landkreis;2;238;.;.;.;.;.
+31.12.2003;09472;      Bayreuth, Landkreis;1;125;.;.;.;.;.
+31.12.2003;09473;      Coburg, Landkreis;1;92;.;.;.;.;.
+31.12.2003;09474;      Forchheim, Landkreis;2;364;.;.;.;.;.
+31.12.2003;09475;      Hof, Landkreis;3;512;13856;13861;57;31;308
+31.12.2003;09476;      Kronach, Landkreis;1;330;.;.;.;.;.
+31.12.2003;09477;      Kulmbach, Landkreis;2;520;.;.;.;.;.
+31.12.2003;09478;      Lichtenfels, Landkreis;4;793;21628;21688;123;70;519
+31.12.2003;09479;      Wunsiedel i.Fichtelgebirge, Landkreis;2;518;.;.;.;.;.
+31.12.2003;095;    Mittelfranken, Regierungsbezirk;43;10999;369097;369771;2753;1377;8712
+31.12.2003;09561;      Ansbach;3;951;22934;23119;171;100;752
+31.12.2003;09562;      Erlangen;3;2171;72921;73144;963;440;2227
+31.12.2003;09563;      Fürth;2;849;.;.;.;.;.
+31.12.2003;09564;      Nürnberg;14;3638;133888;134067;963;500;3097
+31.12.2003;09565;      Schwabach;1;200;.;.;.;.;.
+31.12.2003;09571;      Ansbach, Landkreis;4;653;20694;20800;86;40;412
+31.12.2003;09572;      Erlangen-Höchstadt, Landkreis;1;85;.;.;.;.;.
+31.12.2003;09573;      Fürth, Landkreis;1;22;.;.;.;.;.
+31.12.2003;09574;      Nürnberger Land, Landkreis;7;1172;29080;29132;161;72;672
+31.12.2003;09575;      Neustadt a.d.Aisch-Bad Windsheim, Landkreis;3;448;15866;15877;72;31;347
+31.12.2003;09576;      Roth, Landkreis;1;300;.;.;.;.;.
+31.12.2003;09577;      Weißenburg-Gunzenhausen, Landkreis;3;510;16231;16241;65;37;310
+31.12.2003;096;    Unterfranken, Regierungsbezirk;50;9104;299797;299167;1823;912;7097
+31.12.2003;09661;      Aschaffenburg;3;782;36121;35555;179;86;821
+31.12.2003;09662;      Schweinfurt;3;944;39977;39888;187;107;849
+31.12.2003;09663;      Würzburg;8;2533;87198;87164;751;336;2132
+31.12.2003;09671;      Aschaffenburg, Landkreis;2;182;.;.;.;.;.
+31.12.2003;09672;      Bad Kissingen, Landkreis;8;823;22058;22117;96;59;469
+31.12.2003;09673;      Rhön-Grabfeld, Landkreis;8;1225;32446;32413;196;114;819
+31.12.2003;09674;      Haßberge, Landkreis;3;305;11461;11507;52;26;176
+31.12.2003;09675;      Kitzingen, Landkreis;2;306;.;.;.;.;.
+31.12.2003;09676;      Miltenberg, Landkreis;2;395;.;.;.;.;.
+31.12.2003;09677;      Main-Spessart, Landkreis;5;768;19056;19118;99;42;598
+31.12.2003;09678;      Schweinfurt, Landkreis;5;691;13857;13780;101;58;439
+31.12.2003;09679;      Würzburg, Landkreis;1;150;.;.;.;.;.
+31.12.2003;097;    Schwaben, Regierungsbezirk;58;10544;335017;335612;1863;1048;7380
+31.12.2003;09761;      Augsburg;9;3117;102386;102443;650;362;2193
+31.12.2003;09762;      Kaufbeuren;2;628;.;.;.;.;.
+31.12.2003;09763;      Kempten (Allgäu);2;595;.;.;.;.;.
+31.12.2003;09764;      Memmingen;2;618;.;.;.;.;.
+31.12.2003;09771;      Aichach-Friedberg, Landkreis;2;309;.;.;.;.;.
+31.12.2003;09772;      Augsburg, Landkreis;4;454;15383;15355;60;35;247
+31.12.2003;09773;      Dillingen a.d.Donau, Landkreis;3;477;17686;17339;59;43;310
+31.12.2003;09774;      Günzburg, Landkreis;6;1060;24190;24452;163;93;922
+31.12.2003;09775;      Neu-Ulm, Landkreis;3;510;20634;20619;84;49;326
+31.12.2003;09776;      Lindau (Bodensee), Landkreis;7;422;12295;12337;65;48;205
+31.12.2003;09777;      Ostallgäu, Landkreis;6;770;22275;22290;101;58;455
+31.12.2003;09778;      Unterallgäu, Landkreis;2;380;.;.;.;.;.
+31.12.2003;09779;      Donau-Ries, Landkreis;4;583;18931;19061;84;41;380
+31.12.2003;09780;      Oberallgäu, Landkreis;6;621;17368;17565;74;41;325
+31.12.2003;10;  Saarland;26;7395;266731;266464;1789;953;6650
+31.12.2003;10041;      Saarbrücken, Regionalverband;10;3004;.;.;.;.;.
+31.12.2003;10041100;      Saarbrücken, Landeshauptstadt;-;-;-;-;-;-;-
+31.12.2003;10042;      Merzig-Wadern, Landkreis;3;560;.;.;.;.;.
+31.12.2003;10043;      Neunkirchen, Landkreis;5;882;.;.;.;.;.
+31.12.2003;10044;      Saarlouis, Landkreis;5;1129;.;.;.;.;.
+31.12.2003;10045;      Saarpfalz-Kreis;2;1545;.;.;.;.;.
+31.12.2003;10046;      St. Wendel, Landkreis;1;275;.;.;.;.;.
+31.12.2003;11;  Berlin;69;20991;691171;691058;6973;3844;16372
+31.12.2003;11001001;      Berlin-Mitte;-;-;-;-;-;-;-
+31.12.2003;11002002;      Berlin-Friedrichshain-Kreuzberg;-;-;-;-;-;-;-
+31.12.2003;11003003;      Berlin-Pankow;-;-;-;-;-;-;-
+31.12.2003;11004004;      Berlin-Charlottenburg-Wilmersdorf;-;-;-;-;-;-;-
+31.12.2003;11005005;      Berlin-Spandau;-;-;-;-;-;-;-
+31.12.2003;11006006;      Berlin-Steglitz-Zehlendorf;-;-;-;-;-;-;-
+31.12.2003;11007007;      Berlin-Tempelhof-Schöneberg;-;-;-;-;-;-;-
+31.12.2003;11008008;      Berlin-Neukölln;-;-;-;-;-;-;-
+31.12.2003;11009009;      Berlin-Treptow-Köpenick;-;-;-;-;-;-;-
+31.12.2003;11010010;      Berlin-Marzahn-Hellersdorf;-;-;-;-;-;-;-
+31.12.2003;11011011;      Berlin-Lichtenberg;-;-;-;-;-;-;-
+31.12.2003;11012012;      Berlin-Reinickendorf;-;-;-;-;-;-;-
+31.12.2003;12;  Brandenburg;49;15664;519166;519515;3095;2012;9839
+31.12.2003;12051;      Brandenburg an der Havel, Kreisfreie Stadt;3;954;28758;28741;204;115;711
+31.12.2003;12052;      Cottbus, Kreisfreie Stadt;2;1366;47301;47354;327;209;847
+31.12.2003;12053;      Frankfurt (Oder), Kreisfreie Stadt;2;1040;32789;32821;210;138;603
+31.12.2003;12054;      Potsdam, Kreisfreie Stadt;4;1497;49842;49853;363;215;930
+31.12.2003;12060;      Barnim, Landkreis;4;962;32019;32080;258;198;672
+31.12.2003;12061;      Dahme-Spreewald, Landkreis;4;1108;37444;37550;190;126;800
+31.12.2003;12062;      Elbe-Elster, Landkreis;3;592;19478;19589;78;60;350
+31.12.2003;12063;      Havelland, Landkreis;1;579;20428;20450;106;63;324
+31.12.2003;12064;      Märkisch-Oderland, Landkreis;2;734;24847;24877;119;74;391
+31.12.2003;12065;      Oberhavel, Landkreis;3;868;26144;26094;159;103;479
+31.12.2003;12066;      Oberspreewald-Lausitz, Landkreis;1;535;16608;16452;96;67;315
+31.12.2003;12067;      Oder-Spree, Landkreis;4;1147;40128;40275;231;148;766
+31.12.2003;12068;      Ostprignitz-Ruppin, Landkreis;2;1087;37339;37357;221;134;685
+31.12.2003;12069;      Potsdam-Mittelmark, Landkreis;4;614;19353;19349;100;63;387
+31.12.2003;12070;      Prignitz, Landkreis;1;341;11626;11638;61;36;212
+31.12.2003;12071;      Spree-Neiße, Landkreis;3;603;19144;19130;92;72;340
+31.12.2003;12072;      Teltow-Fläming, Landkreis;2;555;18506;18496;85;61;329
+31.12.2003;12073;      Uckermark, Landkreis;4;1082;37412;37409;195;130;698
+31.12.2003;13;  Mecklenburg-Vorpommern;35;10772;393284;392962;2584;1610;7186
+31.12.2003;13001;      Kreisfreie Stadt Greifswald, Hansestadt;3;1077;36992;36902;415;214;828
+31.12.2003;13002;      Kreisfreie Stadt Neubrandenburg, Stadt;1;1025;36090;36134;256;148;611
+31.12.2003;13003;      Kreisfreie Stadt Rostock, Hansestadt;4;1523;56931;56934;567;334;1255
+31.12.2003;13004;      Kreisfreie Stadt Schwerin, Landeshauptstadt;1;1448;47926;47620;324;235;1007
+31.12.2003;13005;      Kreisfreie Stadt Stralsund, Hansestadt;1;592;21015;21048;132;73;437
+31.12.2003;13006;      Kreisfreie Stadt Wismar, Hansestadt;1;491;18947;18922;102;72;308
+31.12.2003;13051;      Landkreis Bad Doberan;1;157;6645;6643;21;15;82
+31.12.2003;13052;      Landkreis Demmin;2;347;13997;14024;56;39;186
+31.12.2003;13053;      Landkreis Güstrow;3;586;21800;21913;89;63;337
+31.12.2003;13054;      Landkreis Ludwigslust;3;438;17704;17743;72;55;265
+31.12.2003;13055;      Landkreis Mecklenburg-Strelitz;1;194;7576;7571;28;20;131
+31.12.2003;13056;      Landkreis Müritz;2;504;18586;18590;76;53;264
+31.12.2003;13057;      Landkreis Nordvorpommern;2;285;11440;11425;51;43;166
+31.12.2003;13058;      Landkreis Nordwestmecklenburg;1;120;5031;5039;21;13;66
+31.12.2003;13059;      Landkreis Ostvorpommern;3;579;23359;23398;132;74;414
+31.12.2003;13060;      Landkreis Parchim;3;511;17730;17768;107;70;324
+31.12.2003;13061;      Landkreis Rügen;1;278;12212;12236;49;33;172
+31.12.2003;13062;      Landkreis Uecker-Randow;2;617;19303;19052;86;56;333
+31.12.2003;13071;      Landkreis Mecklenburgische Seenplatte;-;-;-;-;-;-;-
+31.12.2003;13072;      Landkreis Rostock;-;-;-;-;-;-;-
+31.12.2003;13073;      Landkreis Vorpommern-Rügen;-;-;-;-;-;-;-
+31.12.2003;13074;      Landkreis Nordwestmecklenburg;-;-;-;-;-;-;-
+31.12.2003;13075;      Landkreis Vorpommern-Greifswald;-;-;-;-;-;-;-
+31.12.2003;13076;      Landkreis Ludwigslust-Parchim;-;-;-;-;-;-;-
+31.12.2003;14;  Sachsen;87;29156;912966;915258;5818;3791;18915
+31.12.2003;141;    Chemnitz, Regierungsbezirk;29;10573;326156;326648;1719;1242;6708
+31.12.2003;14161;      Chemnitz, Kreisfreie Stadt;3;2485;82099;81947;465;341;1874
+31.12.2003;14166;      Plauen, Kreisfreie Stadt;2;725;.;.;.;.;.
+31.12.2003;14167;      Zwickau, Kreisfreie Stadt;2;1103;.;.;.;.;.
+31.12.2003;14171;      Annaberg, Landkreis;1;375;.;.;.;.;.
+31.12.2003;14173;      Chemnitzer Land, Landkreis;2;650;.;.;.;.;.
+31.12.2003;14177;      Freiberg, Landkreis;2;451;.;.;.;.;.
+31.12.2003;14178;      Vogtlandkreis;5;1250;33090;33128;162;129;701
+31.12.2003;14181;      Mittlerer Erzgebirgskreis;2;492;.;.;.;.;.
+31.12.2003;14182;      Mittweida, Landkreis;2;800;.;.;.;.;.
+31.12.2003;14188;      Stollberg, Landkreis;1;320;.;.;.;.;.
+31.12.2003;14191;      Aue-Schwarzenberg, Landkreis;4;1318;38786;38994;193;150;699
+31.12.2003;14193;      Zwickauer Land, Landkreis;3;604;16550;16587;76;65;337
+31.12.2003;142;    Dresden, Regierungsbezirk;35;11005;350743;351633;2447;1545;7316
+31.12.2003;14262;      Dresden, Kreisfreie Stadt;8;3708;130177;130470;1263;718;2984
+31.12.2003;14263;      Görlitz, Kreisfreie Stadt;2;822;.;.;.;.;.
+31.12.2003;14264;      Hoyerswerda, Kreisfreie Stadt;1;691;.;.;.;.;.
+31.12.2003;14272;      Bautzen, Landkreis;2;698;.;.;.;.;.
+31.12.2003;14280;      Meißen, Landkreis;3;929;31099;31140;150;114;462
+31.12.2003;14284;      Niederschlesischer Oberlausitzkreis;3;478;14565;14602;69;51;239
+31.12.2003;14285;      Riesa-Großenhain, Landkreis;2;643;.;.;.;.;.
+31.12.2003;14286;      Löbau-Zittau, Landkreis;3;1002;25574;25732;129;86;588
+31.12.2003;14287;      Sächsische Schweiz, Landkreis;3;857;24487;24486;142;97;446
+31.12.2003;14290;      Weißeritzkreis;4;501;15149;15215;90;59;402
+31.12.2003;14292;      Kamenz, Landkreis;4;676;15830;15895;93;53;524
+31.12.2003;143;    Leipzig, Regierungsbezirk;23;7578;236067;236977;1652;1004;4891
+31.12.2003;14365;      Leipzig, Kreisfreie Stadt;7;4156;134493;134356;1147;686;2930
+31.12.2003;14374;      Delitzsch, Landkreis;5;913;26797;26733;140;85;554
+31.12.2003;14375;      Döbeln, Landkreis;3;550;.;.;.;.;.
+31.12.2003;14379;      Leipziger Land, Landkreis;1;515;.;.;.;.;.
+31.12.2003;14383;      Muldentalkreis;4;689;17656;17945;99;61;412
+31.12.2003;14389;      Torgau-Oschatz, Landkreis;3;755;22781;22701;105;65;416
+31.12.2003;145;    Chemnitz, Stat. Region;-;-;-;-;-;-;-
+31.12.2003;14511;      Chemnitz, Stadt;-;-;-;-;-;-;-
+31.12.2003;14521;      Erzgebirgskreis;-;-;-;-;-;-;-
+31.12.2003;14522;      Mittelsachsen, Landkreis;-;-;-;-;-;-;-
+31.12.2003;14523;      Vogtlandkreis;-;-;-;-;-;-;-
+31.12.2003;14524;      Zwickau, Landkreis;-;-;-;-;-;-;-
+31.12.2003;146;    Dresden, Stat. Region;-;-;-;-;-;-;-
+31.12.2003;14612;      Dresden, Stadt;-;-;-;-;-;-;-
+31.12.2003;14625;      Bautzen, Landkreis;-;-;-;-;-;-;-
+31.12.2003;14626;      Görlitz, Landkreis;-;-;-;-;-;-;-
+31.12.2003;14627;      Meißen, Landkreis;-;-;-;-;-;-;-
+31.12.2003;14628;      Sächsische Schweiz-Osterzgebirge, Landkreis;-;-;-;-;-;-;-
+31.12.2003;147;    Leipzig, Stat. Region;-;-;-;-;-;-;-
+31.12.2003;14713;      Leipzig, Stadt;-;-;-;-;-;-;-
+31.12.2003;14729;      Leipzig, Landkreis;-;-;-;-;-;-;-
+31.12.2003;14730;      Nordsachsen, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15;  Sachsen-Anhalt;53;17378;575389;577905;3622;2337;12248
+31.12.2003;15001;      Dessau-Roßlau, Kreisfreie Stadt;-;-;-;-;-;-;-
+31.12.2003;15002;      Halle (Saale), Kreisfreie Stadt;-;-;-;-;-;-;-
+31.12.2003;15003;      Magdeburg, Kreisfreie Stadt;-;-;-;-;-;-;-
+31.12.2003;15081;      Altmarkkreis Salzwedel;-;-;-;-;-;-;-
+31.12.2003;15082;      Anhalt-Bitterfeld, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15083;      Börde, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15084;      Burgenlandkreis;-;-;-;-;-;-;-
+31.12.2003;15085;      Harz, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15086;      Jerichower Land, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15087;      Mansfeld-Südharz, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15088;      Saalekreis;-;-;-;-;-;-;-
+31.12.2003;15089;      Salzlandkreis;-;-;-;-;-;-;-
+31.12.2003;15090;      Stendal, Landkreis;-;-;-;-;-;-;-
+31.12.2003;15091;      Wittenberg, Landkreis;-;-;-;-;-;-;-
+31.12.2003;151;    Dessau, Stat. Region;12;3254;105303;105726;583;402;2180
+31.12.2003;15101;      Dessau, Kreisfreie Stadt;3;959;35545;35604;221;152;602
+31.12.2003;15151;      Anhalt-Zerbst, Kreis;2;327;11174;11196;59;46;225
+31.12.2003;15153;      Bernburg, Kreis;3;614;14206;14220;86;58;441
+31.12.2003;15154;      Bitterfeld, Kreis;1;434;15577;15585;89;68;298
+31.12.2003;15159;      Köthen, Kreis;1;264;8828;9071;32;20;174
+31.12.2003;15171;      Wittenberg, Kreis;2;656;19973;20050;96;58;440
+31.12.2003;152;    Halle, Stat. Region;12;5828;187914;188411;1405;853;4237
+31.12.2003;15202;      Halle (Saale), Kreisfreie Stadt;6;3068;94862;95206;983;573;2471
+31.12.2003;15256;      Burgenlandkreis;2;717;23523;23543;110;67;445
+31.12.2003;15260;      Mansfelder Land, Kreis;1;551;18305;18365;82;63;360
+31.12.2003;15261;      Merseburg-Querfurt, Kreis;1;657;18847;18855;89;56;440
+31.12.2003;15265;      Saalkreis;0;0;0;0;0;0;0
+31.12.2003;15266;      Sangerhausen, Kreis;1;380;15696;15716;54;39;233
+31.12.2003;15268;      Weißenfels, Kreis;1;455;16681;16726;87;55;288
+31.12.2003;153;    Magdeburg, Stat. Region;29;8296;282172;283768;1634;1082;5831
+31.12.2003;15303;      Magdeburg, Kreisfreie Stadt;6;2272;81649;81798;676;387;1948
+31.12.2003;15352;      Aschersleben-Staßfurt, Kreis;1;580;20864;20855;103;71;459
+31.12.2003;15355;      Bördekreis;1;277;8412;8451;28;28;152
+31.12.2003;15357;      Halberstadt, Kreis;1;475;18961;18978;98;74;296
+31.12.2003;15358;      Jerichower Land, Kreis;4;763;20906;21225;114;87;465
+31.12.2003;15362;      Ohrekreis;2;630;18815;18859;86;68;403
+31.12.2003;15363;      Stendal, Kreis;4;1054;31951;31970;172;116;721
+31.12.2003;15364;      Quedlinburg, Kreis;3;646;23901;23910;111;79;390
+31.12.2003;15367;      Schönebeck, Kreis;2;425;17133;18009;65;41;268
+31.12.2003;15369;      Wernigerode, Kreis;3;725;22222;22676;103;74;474
+31.12.2003;15370;      Altmarkkreis Salzwedel, Kreis;2;449;17358;17037;78;57;255
+31.12.2003;16;  Thüringen;49;16917;538897;541574;3332;2117;10428
+31.12.2003;16051;      Erfurt, krsfr. Stadt;2;1664;.;.;.;.;.
+31.12.2003;16052;      Gera, krsfr. Stadt;1;1085;.;.;.;.;.
+31.12.2003;16053;      Jena, krsfr. Stadt;1;1378;.;.;.;.;.
+31.12.2003;16054;      Suhl, krsfr. Stadt;1;676;.;.;.;.;.
+31.12.2003;16055;      Weimar, krsfr. Stadt;1;553;.;.;.;.;.
+31.12.2003;16056;      Eisenach, krsfr. Stadt;1;500;.;.;.;.;.
+31.12.2003;16061;      Eichsfeld, Kreis;2;575;.;.;.;.;.
+31.12.2003;16062;      Nordhausen, Kreis;3;1063;.;.;.;.;.
+31.12.2003;16063;      Wartburgkreis;3;475;.;.;.;.;.
+31.12.2003;16064;      Unstrut-Hainich-Kreis;4;1028;.;.;.;.;.
+31.12.2003;16065;      Kyffhäuserkreis;2;449;.;.;.;.;.
+31.12.2003;16066;      Schmalkalden-Meiningen, Kreis;4;964;.;.;.;.;.
+31.12.2003;16067;      Gotha, Kreis;2;609;.;.;.;.;.
+31.12.2003;16068;      Sömmerda, Kreis;1;250;.;.;.;.;.
+31.12.2003;16069;      Hildburghausen, Kreis;2;520;.;.;.;.;.
+31.12.2003;16070;      Ilm-Kreis;3;614;.;.;.;.;.
+31.12.2003;16071;      Weimarer Land, Kreis;3;1087;.;.;.;.;.
+31.12.2003;16072;      Sonneberg, Kreis;1;387;.;.;.;.;.
+31.12.2003;16073;      Saalfeld-Rudolstadt, Kreis;3;829;.;.;.;.;.
+31.12.2003;16074;      Saale-Holzland-Kreis;2;721;.;.;.;.;.
+31.12.2003;16075;      Saale-Orla-Kreis;1;345;.;.;.;.;.
+31.12.2003;16076;      Greiz, Kreis;3;476;.;.;.;.;.
+31.12.2003;16077;      Altenburger Land, Kreis;3;669;.;.;.;.;.
+__________
+"zu ""gesamte Tabelle"":
+Baden-Württemberg (ab 2002), Hessen (ab 2003): keine
+Darstellung auf
+Kreisebene möglich;
+Nordrhein-Westfalen: Allgemeine Krankenhäuser;
+Schleswig-Holstein: ohne Tages- und Nachtkliniken;
+Bayern (bis 2000), Niedersachsen (bis 1999): einschl.
+Bundeswehrkrankenhäusern;
+Sachsen (1995): bezogen auf den Gebietsstand 01.01.1996
+ 
+zu ""aufgestellte Betten"":
+Rheinland-Pfalz (1995-2001): einschl. Plätzen von reinen
+Tages- oder Nachtkliniken"
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2020.
+Dieses Werk ist lizenziert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 21.03.2020 / 16:17:37
